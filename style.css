@@ -26,11 +26,9 @@ body {
 .right {
   float: right;
 }
-
 .red {
   color: #ff5049 !important;
 }
-
 .red-focus:focus {
   border: 1px solid #ff5049 !important;
 }
@@ -160,7 +158,6 @@ body {
 .add__description {
   width: 400px;
 }
-
 .add__value {
   width: 100px;
 }
@@ -219,7 +216,6 @@ h2 {
 .icome__title {
   color: #28b9b5;
 }
-
 .expenses__title {
   color: #ff5049;
 }
@@ -232,7 +228,6 @@ h2 {
 .item:first-child {
   border-top: 1px solid #e7e7e7;
 }
-
 .item:nth-child(even) {
   background-color: #f7f7f7;
 }
@@ -287,7 +282,6 @@ h2 {
 .item__delete--btn:focus {
   outline: none;
 }
-
 .item__delete--btn:active {
   transform: translateY(2px);
 }
@@ -295,11 +289,9 @@ h2 {
 .item:hover .item__delete--btn {
   display: block;
 }
-
 .item:hover .item__value {
   transform: translateX(-20px);
 }
-
 .item:hover .item__percentage {
   transform: translateX(-20px);
 }
@@ -313,7 +305,6 @@ h2 {
 .unpaid .item__percentage {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1);
 }
-
 .unpaid:hover .item__description {
   font-weight: 900;
 }
