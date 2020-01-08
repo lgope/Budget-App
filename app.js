@@ -1,3 +1,4 @@
+//BUDGET CONTROLLER
 var budgetController = (function() {
   var Expense = function(id, description, value) {
     this.id = id;
