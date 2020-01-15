@@ -42,6 +42,12 @@ Some of the standout features of the project are:
 
 ![a3](https://user-images.githubusercontent.com/35052546/60202029-96c61f80-986b-11e9-8eb0-03713e97885a.png)
 
-## Deployed Version:
+### Instructions
+To run this project :
+1. Clone this repo
+2. Change your directory : `cd Budget-App`
+3. open 'index.html' on your browser
 
+
+## Deployed Version:
 [Click](https://lgope.github.io/Budget-App/)
