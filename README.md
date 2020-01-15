@@ -1,4 +1,22 @@
-# BUDGETY PROJET - PLANNING GUIDE
+# BUDGETY PROJET
+
+## Technologies Used :
+<ul>
+  <li><b>html5 </b></li>
+  <li><b>css3 </b></li>
+  <li><b>javascript-dom </b></li>
+</ul>
+
+
+## Key Features :
+Some of the standout features of the project are:
+1. user can add income with description
+2. can add EXPENSES
+3. also can see percentage of expenses
+
+### Home Page :
+![budgetyHome](https://user-images.githubusercontent.com/58518192/72458321-9040ca80-37f2-11ea-9d45-db4a644dc0d9.png)
+
 
 ## PLANNING STEP 1
 
